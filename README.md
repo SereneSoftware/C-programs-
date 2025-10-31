@@ -6,6 +6,8 @@ Beginner-friendly C programs that I’ve written while learning programming.
 - GuessTheNumberGame 🎯
 - LoopyBank ATM 💰
 - LoopyMart Billing System 🧾
+- LoopyCinema Booking System 🎥
+- LoopyMatrix Analyzer 📖
 
 ## 🚀 Tools Used  
 - GDB Online Compiler  
